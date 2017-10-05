@@ -46,12 +46,14 @@ a:hover {
     width: 30%;
     margin: auto;
     font-size: 18px;
+    text-align: left;
 }
 
 .favorites {
     width: 30%;
     margin: auto;
     font-size: 18px;
+    text-align: left;
 }
 
 .images {
